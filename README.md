@@ -2,7 +2,7 @@
 Adafruit GFX and SSD1306 Library updated for .9" OLED display
 
 
-Fallow below steps to setup OLED.
+Follow below steps to setup OLED.
 
 pre-requisites:
 1) Download Arduino software from arduino.cc
